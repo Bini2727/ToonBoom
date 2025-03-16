@@ -1,0 +1,173 @@
+[TB_StateManager]
+State Count:19
+  [TB_State]
+  Name:"animatedState_46"
+  Frame:46
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="6"
+
+  [TB_State]
+  Name:"animatedState_47"
+  Frame:47
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="7"
+
+  [TB_State]
+  Name:"animatedState_48"
+  Frame:48
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="8"
+
+  [TB_State]
+  Name:"animatedState_49"
+  Frame:49
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="9"
+
+  [TB_State]
+  Name:"animatedState_50"
+  Frame:50
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="10"
+
+  [TB_State]
+  Name:"animatedState_51"
+  Frame:51
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="11"
+
+  [TB_State]
+  Name:"animatedState_52"
+  Frame:52
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="12"
+
+  [TB_State]
+  Name:"animatedState_53"
+  Frame:53
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="13"
+
+  [TB_State]
+  Name:"animatedState_54"
+  Frame:54
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="14"
+
+  [TB_State]
+  Name:"animatedState_55"
+  Frame:55
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="15"
+
+  [TB_State]
+  Name:"animatedState_56"
+  Frame:56
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="16"
+
+  [TB_State]
+  Name:"animatedState_57"
+  Frame:57
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="17"
+
+  [TB_State]
+  Name:"animatedState_58"
+  Frame:58
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="Clench01"
+
+  [TB_State]
+  Name:"animatedState_59"
+  Frame:59
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="Clench02"
+
+  [TB_State]
+  Name:"animatedState_60"
+  Frame:60
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="Pose01"
+
+  [TB_State]
+  Name:"animatedState_61"
+  Frame:61
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="Pose02"
+
+  [TB_State]
+  Name:"animatedState_62"
+  Frame:62
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="Pose03"
+
+  [TB_State]
+  Name:"animatedState_63"
+  Frame:63
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="Pose04"
+
+  [TB_State]
+  Name:"animatedState_64"
+  Frame:64
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Arm_R/Hands_1"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="Pose05"
+

@@ -1,0 +1,442 @@
+[TB_StateManager]
+State Count:4
+  [TB_State]
+  Name:"animatedState_460"
+  Frame:460
+  Node Count:21
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:4
+      AttrName:"Length0"=0.898699
+      AttrName:"orientation0"=126.62
+      AttrName:"Length1"=0.476314
+      AttrName:"orientation1"=14.3253
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:1
+      AttrName:"offset"=-0.43006,2.47492
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf/CURVE_2"
+    Attr Count:4
+      AttrName:"Length0"=0.987506
+      AttrName:"orientation0"=116.53
+      AttrName:"Length1"=0.377452
+      AttrName:"orientation1"=4.06272
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf/CURVE_1"
+    Attr Count:1
+      AttrName:"offset"=-0.468394,2.62159
+    [TB_NodeState]
+    Node:"~/T-Shirt/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.744656,3.33146
+    [TB_NodeState]
+    Node:"~/T-Shirt/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.24362,2.55786
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/CURVE_1"
+    Attr Count:2
+      AttrName:"orientation0"=-10.9072
+      AttrName:"offset"=-0.497994,2.36045
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.260481
+      AttrName:"orientation0"=93.6206
+      AttrName:"offset"=-0.90106,3.69822
+      AttrName:"Length1"=0.331837
+      AttrName:"orientation1"=-10.9072
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.61677,3.22332
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.21549,2.71431
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-1.30178,3.64721
+      AttrName:"Length1"=0.461581
+      AttrName:"orientation1"=83.3812
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.143961
+      AttrName:"orientation0"=41.459
+      AttrName:"offset"=-0.284984,3.50478
+      AttrName:"Length1"=0.392983
+      AttrName:"orientation1"=-58.4918
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf/CURVE"
+    Attr Count:3
+      AttrName:"Length0"=0.564911
+      AttrName:"orientation0"=97.2041
+      AttrName:"offset"=-0.824777,3.236
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.46856,2.69056
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-1.38746,3.09857
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE_1"
+    Attr Count:3
+      AttrName:"offset"=-0.452927,3.54754
+      AttrName:"Length1"=0.227477
+      AttrName:"orientation1"=-6.0394
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE_2"
+    Attr Count:1
+      AttrName:"orientation0"=-2.55583
+    [TB_NodeState]
+    Node:"~/T-Shirt/cutter_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0.309178,0
+    [TB_NodeState]
+    Node:"~/T-Shirt/cutter_1-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Arm_R-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Arm_L-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0.488888,0
+
+  [TB_State]
+  Name:"animatedState_461"
+  Frame:461
+  Node Count:21
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:4
+      AttrName:"Length0"=0.973714
+      AttrName:"orientation0"=122.944
+      AttrName:"Length1"=0.494451
+      AttrName:"orientation1"=10.0961
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:1
+      AttrName:"offset"=-0.452842,2.63711
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf/CURVE_2"
+    Attr Count:4
+      AttrName:"Length0"=0.898699
+      AttrName:"orientation0"=126.62
+      AttrName:"Length1"=0.476314
+      AttrName:"orientation1"=14.3253
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf/CURVE_1"
+    Attr Count:1
+      AttrName:"offset"=-0.43006,2.47492
+    [TB_NodeState]
+    Node:"~/T-Shirt/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.713284,3.08862
+    [TB_NodeState]
+    Node:"~/T-Shirt/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.24024,2.6606
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/CURVE_1"
+    Attr Count:2
+      AttrName:"orientation0"=2.50666
+      AttrName:"offset"=-0.621327,2.11601
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.452896
+      AttrName:"orientation0"=95.1452
+      AttrName:"offset"=-0.800644,3.26156
+      AttrName:"Length1"=0.241073
+      AttrName:"orientation1"=2.50666
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.44594,2.79276
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.07682,1.69387
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-1.35283,3.11457
+      AttrName:"Length1"=0.557518
+      AttrName:"orientation1"=106.379
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.163859
+      AttrName:"orientation0"=63.5471
+      AttrName:"offset"=-0.43915,3.41867
+      AttrName:"Length1"=0.227477
+      AttrName:"orientation1"=-6.0394
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf/CURVE"
+    Attr Count:3
+      AttrName:"Length0"=0.355407
+      AttrName:"orientation0"=101.547
+      AttrName:"offset"=-1.08885,3.67827
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.48919,3.21487
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-1.27804,3.65567
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE_1"
+    Attr Count:3
+      AttrName:"offset"=-0.35513,3.58558
+      AttrName:"Length1"=0.224159
+      AttrName:"orientation1"=-13.4519
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE_2"
+    Attr Count:1
+      AttrName:"orientation0"=-13.4519
+    [TB_NodeState]
+    Node:"~/T-Shirt/cutter_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/T-Shirt/cutter_1-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.012368,0.286634,0
+    [TB_NodeState]
+    Node:"~/Arm_R-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0.487922,0
+    [TB_NodeState]
+    Node:"~/Arm_L-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+
+  [TB_State]
+  Name:"animatedState_462"
+  Frame:462
+  Node Count:21
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:4
+      AttrName:"Length0"=0.973714
+      AttrName:"orientation0"=122.944
+      AttrName:"Length1"=0.494451
+      AttrName:"orientation1"=10.0961
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:1
+      AttrName:"offset"=-0.452842,2.63711
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf/CURVE_2"
+    Attr Count:4
+      AttrName:"Length0"=0.987506
+      AttrName:"orientation0"=116.53
+      AttrName:"Length1"=0.377452
+      AttrName:"orientation1"=4.06272
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf/CURVE_1"
+    Attr Count:1
+      AttrName:"offset"=-0.468394,2.62159
+    [TB_NodeState]
+    Node:"~/T-Shirt/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.713284,3.08862
+    [TB_NodeState]
+    Node:"~/T-Shirt/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.24024,2.6606
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/CURVE_1"
+    Attr Count:2
+      AttrName:"orientation0"=-10.9072
+      AttrName:"offset"=-0.497994,2.36045
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.260481
+      AttrName:"orientation0"=93.6206
+      AttrName:"offset"=-0.90106,3.69822
+      AttrName:"Length1"=0.331837
+      AttrName:"orientation1"=-10.9072
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.61677,3.22332
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.21549,2.71431
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-1.30178,3.64721
+      AttrName:"Length1"=0.461581
+      AttrName:"orientation1"=83.3812
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.143961
+      AttrName:"orientation0"=41.459
+      AttrName:"offset"=-0.284984,3.50478
+      AttrName:"Length1"=0.392983
+      AttrName:"orientation1"=-58.4918
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf/CURVE"
+    Attr Count:3
+      AttrName:"Length0"=0.355407
+      AttrName:"orientation0"=101.547
+      AttrName:"offset"=-1.08885,3.67827
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.48919,3.21487
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-1.27804,3.65567
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE_1"
+    Attr Count:3
+      AttrName:"offset"=-0.35513,3.58558
+      AttrName:"Length1"=0.224159
+      AttrName:"orientation1"=-13.4519
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE_2"
+    Attr Count:1
+      AttrName:"orientation0"=-13.4519
+    [TB_NodeState]
+    Node:"~/T-Shirt/cutter_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0.309178,0
+    [TB_NodeState]
+    Node:"~/T-Shirt/cutter_1-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.012368,0.286634,0
+    [TB_NodeState]
+    Node:"~/Arm_R-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0.487922,0
+    [TB_NodeState]
+    Node:"~/Arm_L-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0.488888,0
+
+  [TB_State]
+  Name:"animatedState_463"
+  Frame:463
+  Node Count:21
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:4
+      AttrName:"Length0"=0.898699
+      AttrName:"orientation0"=126.62
+      AttrName:"Length1"=0.476314
+      AttrName:"orientation1"=14.3253
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:1
+      AttrName:"offset"=-0.43006,2.47492
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf/CURVE_2"
+    Attr Count:4
+      AttrName:"Length0"=0.898699
+      AttrName:"orientation0"=126.62
+      AttrName:"Length1"=0.476314
+      AttrName:"orientation1"=14.3253
+    [TB_NodeState]
+    Node:"~/T-Shirt/N/Deformation-ASD_asdf/CURVE_1"
+    Attr Count:1
+      AttrName:"offset"=-0.43006,2.47492
+    [TB_NodeState]
+    Node:"~/T-Shirt/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.744656,3.33146
+    [TB_NodeState]
+    Node:"~/T-Shirt/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.24362,2.55786
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/CURVE_1"
+    Attr Count:2
+      AttrName:"orientation0"=2.50666
+      AttrName:"offset"=-0.621327,2.11601
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.452896
+      AttrName:"orientation0"=95.1452
+      AttrName:"offset"=-0.800644,3.26156
+      AttrName:"Length1"=0.241073
+      AttrName:"orientation1"=2.50666
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_5/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.44594,2.79276
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.07682,1.69387
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-1.35283,3.11457
+      AttrName:"Length1"=0.557518
+      AttrName:"orientation1"=106.379
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.163859
+      AttrName:"orientation0"=63.5471
+      AttrName:"offset"=-0.43915,3.41867
+      AttrName:"Length1"=0.227477
+      AttrName:"orientation1"=-6.0394
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf/CURVE"
+    Attr Count:3
+      AttrName:"Length0"=0.564911
+      AttrName:"orientation0"=97.2041
+      AttrName:"offset"=-0.824777,3.236
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-1.46856,2.69056
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-1.38746,3.09857
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE_1"
+    Attr Count:3
+      AttrName:"offset"=-0.487319,3.41702
+      AttrName:"Length1"=0.227477
+      AttrName:"orientation1"=-6.0394
+    [TB_NodeState]
+    Node:"~/T-Shirt/Sholder/Deformation-ASD_asdf_3/CURVE_2"
+    Attr Count:1
+      AttrName:"orientation0"=-2.55583
+    [TB_NodeState]
+    Node:"~/T-Shirt/cutter_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/T-Shirt/cutter_1-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Arm_R-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Arm_L-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+

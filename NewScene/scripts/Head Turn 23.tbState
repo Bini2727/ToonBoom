@@ -1,0 +1,6014 @@
+[TB_StateManager]
+State Count:12
+  [TB_State]
+  Name:"L0-C0-001.0;-001.0"
+  Frame:287
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=0.419642,0.0161541,0
+      AttrName:"SCALE"=-0.808637,1,1
+      AttrName:"ROTATION"=0,0,-5.93407
+      AttrName:"SKEW"=2.40927e-13
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.10541,5.61535
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.806212,5.59348
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.471193,5.97683
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.879681,5.30492
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.644106,5.06466
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.305584,5.83542
+      AttrName:"orientation1"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.110407
+      AttrName:"orientation0"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.866359,5.78557
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.563724,5.69298
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.170767,0.0880981,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.220457,-0.119603,0.00302124
+      AttrName:"SCALE"=0.881961,1,1
+      AttrName:"ROTATION"=0,0,18.7907
+      AttrName:"SKEW"=3.18055e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.226305,0.0494767,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.0340241,-0.158118,0.00302124
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,11.006
+      AttrName:"SKEW"=3.65764e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00347481,-0.00206101,0.005
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.247763,-0.110163,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-17.8534
+      AttrName:"SKEW"=-6.36111e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.241487,-0.0465455,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,10.4777
+      AttrName:"SKEW"=-1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.202169,-0.00850381,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.137338,0.0128846,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.25854,5.62151
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.04954,5.44123
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=3.747e-15,5.32907e-15,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,44.9014
+      AttrName:"SKEW"=-1.90833e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=1.8735e-15,6.66134e-16,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-28.9339
+      AttrName:"SKEW"=-1.27222e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0419013,0.0718958,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,46.0886
+      AttrName:"SKEW"=9.54166e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.14169,0.194476,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,12.626
+      AttrName:"SKEW"=1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.060703,6.25003
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.323993
+      AttrName:"orientation0"=111.145
+      AttrName:"offset"=-0.507619,5.85271
+      AttrName:"Length1"=0.336117
+      AttrName:"orientation1"=-105.408
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.50902
+      AttrName:"orientation0"=-105.408
+      AttrName:"offset"=-0.273212,5.55428
+      AttrName:"Length1"=0.250015
+      AttrName:"orientation1"=75.6499
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=75.6499
+      AttrName:"offset"=0.125263,6.03927
+      AttrName:"Length1"=0.175075
+      AttrName:"orientation1"=9.0606
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.116871
+      AttrName:"orientation0"=89.3601
+      AttrName:"Length1"=0.0774731
+      AttrName:"orientation1"=130.363
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.0366663,6.23322
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.214828
+      AttrName:"orientation0"=129.432
+      AttrName:"offset"=-1.0922,6.26697
+      AttrName:"Length1"=0.455872
+      AttrName:"orientation1"=-128.404
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.777464
+      AttrName:"orientation0"=-128.404
+      AttrName:"offset"=-0.895901,5.6671
+      AttrName:"Length1"=0.198625
+      AttrName:"orientation1"=68.6134
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.371164
+      AttrName:"orientation0"=68.6134
+      AttrName:"offset"=-0.0985188,6.03693
+      AttrName:"Length1"=0.465418
+      AttrName:"orientation1"=-16.5653
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"=""
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00245096,-0.00102216,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.304199,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.316698,5.70474
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.157551
+      AttrName:"orientation0"=-141.797
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.82258,5.68466
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.342402,4.85186
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266847
+      AttrName:"orientation0"=23.6397
+      AttrName:"offset"=0.27914,4.89414
+      AttrName:"Length1"=0.207707
+      AttrName:"orientation1"=-29.821
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.864924,5.81332
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.883654
+      AttrName:"orientation0"=-94.7191
+      AttrName:"offset"=-0.257271,4.08651
+      AttrName:"Length1"=0.463858
+      AttrName:"orientation1"=-32.7606
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.431377,4.0955
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.185356,4.99397
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.425598
+      AttrName:"orientation0"=-66.028
+      AttrName:"offset"=-0.00725324,3.89857
+      AttrName:"Length1"=0.340489
+      AttrName:"orientation1"=-48.6382
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.175979,4.92648
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.558357,4.4451
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.337161
+      AttrName:"orientation1"=-40.4388
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.715568,5.67015
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.300225,4.22042
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.00929813,3.72659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.00136164,4.47439
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.0264,5.31965
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.497801
+      AttrName:"orientation0"=70.8566
+      AttrName:"offset"=0.844683,5.87525
+      AttrName:"Length1"=0.896163
+      AttrName:"orientation1"=-81.4959
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.000523123,6.68074
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.957483,5.2164
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.16331,6.88892
+      AttrName:"Length1"=0.563719
+      AttrName:"orientation1"=59.8587
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.8587
+      AttrName:"offset"=-0.229531,7.62093
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.351572
+      AttrName:"orientation1"=-148.538
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.486297,5.7937
+      AttrName:"orientation1"=185.261
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.476859
+      AttrName:"orientation0"=185.261
+      AttrName:"offset"=-0.970503,6.36447
+      AttrName:"Length1"=1.05761
+      AttrName:"orientation1"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.516036,5.23365
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.359449
+      AttrName:"orientation0"=-73.4548
+      AttrName:"Length1"=0.385482
+      AttrName:"orientation1"=-97.9209
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.391569
+      AttrName:"orientation0"=92.2894
+      AttrName:"offset"=-0.631785,6.41737
+      AttrName:"Length1"=0.395613
+      AttrName:"orientation1"=82.7117
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.488894,6.30583
+      AttrName:"orientation1"=-73.4548
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.644984,5.21659
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.531382,5.36608
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.128094,3.9724
+      AttrName:"orientation1"=136.4
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.702307
+      AttrName:"orientation0"=136.4
+      AttrName:"offset"=-0.646477,5.39736
+      AttrName:"Length1"=0.89634
+      AttrName:"orientation1"=86.681
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.600032
+      AttrName:"orientation0"=-91.0756
+      AttrName:"offset"=0.345666,3.98727
+      AttrName:"Length1"=0.386327
+      AttrName:"orientation1"=-122.475
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0576771,0,0
+      AttrName:"SCALE"=0.750947,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=-6.245e-17,0,0
+      AttrName:"SCALE"=0.843458,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0.219999,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0.200977,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.00241327,-0.00885666,0
+      AttrName:"SCALE"=0.639041,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=-1.08019e-15,1.33227e-15,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-28.8672
+      AttrName:"SKEW"=3.49861e-14
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=-2.34968e-15,0,0
+      AttrName:"SCALE"=-1,1,1
+
+  [TB_State]
+  Name:"L0-C1-000.0;-001.0"
+  Frame:253
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0884462,-0.157339,0
+      AttrName:"SCALE"=-1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.11053,5.34657
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.795561,5.4808
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.511458,6.12924
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.866951,5.62178
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.665039,5.49427
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.398925,6.00074
+      AttrName:"orientation1"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.104186
+      AttrName:"orientation0"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.729469,5.88619
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.460821,5.77739
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.23746,5.48386
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.02087,5.49534
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.0444869,6.27332
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.872507,6.136
+      AttrName:"Length1"=0.590349
+      AttrName:"orientation1"=-111.935
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.279025
+      AttrName:"orientation0"=-111.935
+      AttrName:"offset"=-0.659277,5.88686
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=48.0602
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=48.0602
+      AttrName:"offset"=0.0400541,6.08112
+      AttrName:"Length1"=0.452751
+      AttrName:"orientation1"=-44.024
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0694047
+      AttrName:"orientation0"=72.7746
+      AttrName:"Length1"=0.0587893
+      AttrName:"orientation1"=96.0802
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.000993277,6.23517
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.571859,6.11365
+      AttrName:"Length1"=0.386365
+      AttrName:"orientation1"=-106.043
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.337356
+      AttrName:"orientation0"=-106.043
+      AttrName:"offset"=-0.311378,5.88894
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=81.1122
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.210769
+      AttrName:"orientation0"=81.1122
+      AttrName:"offset"=-0.0253492,6.08369
+      AttrName:"Length1"=0.316718
+      AttrName:"orientation1"=-37.5394
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=0.00383058,-0.0928352,0
+      AttrName:"SCALE"=1.20932,1.20932,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.562248,5.63449
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.0612826
+      AttrName:"orientation0"=-6.42527
+      AttrName:"offset"=-0.371136,5.44078
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.572505,5.67991
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.394665,5.45318
+      AttrName:"Length1"=0.0795027
+      AttrName:"orientation1"=-29.1162
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,-0.178421,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,-0.178421,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.00458521,-0.216264,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.354661,4.91563
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.24863
+      AttrName:"orientation0"=8.02989
+      AttrName:"offset"=0.335803,4.90934
+      AttrName:"Length1"=0.247836
+      AttrName:"orientation1"=-12.2685
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.769072,5.65731
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.529294
+      AttrName:"orientation0"=-80.5063
+      AttrName:"offset"=-0.262219,4.19054
+      AttrName:"Length1"=0.618883
+      AttrName:"orientation1"=-65.7723
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.532252,4.14857
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.252059,4.8703
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.425598
+      AttrName:"orientation0"=-66.028
+      AttrName:"offset"=-0.00725324,3.89857
+      AttrName:"Length1"=0.340489
+      AttrName:"orientation1"=-48.6382
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.191424,4.85653
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.453741,4.58021
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.337161
+      AttrName:"orientation1"=-40.4388
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.798464,5.68931
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.271024,4.22606
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.00929813,3.72659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.00136164,4.47439
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00173755,-0.0662156,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.000965307,-0.121481,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.619277,6.12319
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.33348
+      AttrName:"orientation0"=21.2447
+      AttrName:"offset"=0.765925,5.82658
+      AttrName:"Length1"=0.431142
+      AttrName:"orientation1"=-33.9695
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.341821,6.60975
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.559445,6.16732
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.0861,6.9476
+      AttrName:"Length1"=0.301033
+      AttrName:"orientation1"=59.578
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.578
+      AttrName:"offset"=-0.125297,7.36825
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.44177
+      AttrName:"orientation1"=-113.66
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.536085,6.10406
+      AttrName:"orientation1"=178.983
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.318816
+      AttrName:"orientation0"=178.983
+      AttrName:"offset"=-0.793254,6.78422
+      AttrName:"Length1"=0.357639
+      AttrName:"orientation1"=82.133
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=82.133
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.538386,5.19289
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.377001
+      AttrName:"orientation0"=-89.3605
+      AttrName:"Length1"=0.266562
+      AttrName:"orientation1"=-100.856
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.428819
+      AttrName:"orientation0"=95.2625
+      AttrName:"offset"=-0.534781,6.33634
+      AttrName:"Length1"=0.395613
+      AttrName:"orientation1"=82.7117
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.587968,6.2439
+      AttrName:"orientation1"=-89.3605
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.559231,5.22262
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.558998,5.36229
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.210977,4.11616
+      AttrName:"orientation1"=145.584
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.467479
+      AttrName:"orientation0"=127.026
+      AttrName:"offset"=-0.570389,5.39376
+      AttrName:"Length1"=0.654586
+      AttrName:"orientation1"=88.0762
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.614246
+      AttrName:"orientation0"=-91.4227
+      AttrName:"offset"=0.215768,4.1082
+      AttrName:"Length1"=0.44934
+      AttrName:"orientation1"=-130.322
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=-6.245e-17,-1.33227e-15,0
+      AttrName:"SCALE"=1.15242,1.15242,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,-0.105636,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0012549,-0.0839934,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,6.66134e-16,0
+      AttrName:"SCALE"=1,1.07456,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=3.90313e-18,-0.164844,0
+      AttrName:"SCALE"=1.04146,1.04146,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=-2.34968e-15,0,0
+      AttrName:"SCALE"=-1,1,1
+
+  [TB_State]
+  Name:"L0-C2+000.0;-001.0"
+  Frame:151
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0884462,-0.157339,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.11053,5.34657
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.795561,5.4808
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.511458,6.12924
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.866951,5.62178
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.665039,5.49427
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.398925,6.00074
+      AttrName:"orientation1"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.104186
+      AttrName:"orientation0"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.729469,5.88619
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.460821,5.77739
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.23746,5.48386
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.02087,5.49534
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.0444869,6.27332
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.872507,6.136
+      AttrName:"Length1"=0.590349
+      AttrName:"orientation1"=-111.935
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.279025
+      AttrName:"orientation0"=-111.935
+      AttrName:"offset"=-0.659277,5.88686
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=48.0602
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=48.0602
+      AttrName:"offset"=0.0400541,6.08112
+      AttrName:"Length1"=0.452751
+      AttrName:"orientation1"=-44.024
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0694047
+      AttrName:"orientation0"=72.7746
+      AttrName:"Length1"=0.0587893
+      AttrName:"orientation1"=96.0802
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.000993277,6.23517
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.571859,6.11365
+      AttrName:"Length1"=0.386365
+      AttrName:"orientation1"=-106.043
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.337356
+      AttrName:"orientation0"=-106.043
+      AttrName:"offset"=-0.311378,5.88894
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=81.1122
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.210769
+      AttrName:"orientation0"=81.1122
+      AttrName:"offset"=-0.0253492,6.08369
+      AttrName:"Length1"=0.316718
+      AttrName:"orientation1"=-37.5394
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=0.00383058,-0.0928352,0
+      AttrName:"SCALE"=1.20932,1.20932,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.562248,5.63449
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.0612826
+      AttrName:"orientation0"=-6.42527
+      AttrName:"offset"=-0.371136,5.44078
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.572505,5.67991
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.394665,5.45318
+      AttrName:"Length1"=0.0795027
+      AttrName:"orientation1"=-29.1162
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,-0.178421,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,-0.178421,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.00458521,-0.216264,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.354661,4.91563
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.24863
+      AttrName:"orientation0"=8.02989
+      AttrName:"offset"=0.335803,4.90934
+      AttrName:"Length1"=0.247836
+      AttrName:"orientation1"=-12.2685
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.769072,5.65731
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.529294
+      AttrName:"orientation0"=-80.5063
+      AttrName:"offset"=-0.262219,4.19054
+      AttrName:"Length1"=0.618883
+      AttrName:"orientation1"=-65.7723
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.532252,4.14857
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.252059,4.8703
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.425598
+      AttrName:"orientation0"=-66.028
+      AttrName:"offset"=-0.00725324,3.89857
+      AttrName:"Length1"=0.340489
+      AttrName:"orientation1"=-48.6382
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.191424,4.85653
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.453741,4.58021
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.337161
+      AttrName:"orientation1"=-40.4388
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.798464,5.68931
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.271024,4.22606
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.00929813,3.72659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.00136164,4.47439
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00173755,-0.0662156,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.000965307,-0.121481,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.619277,6.12319
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.33348
+      AttrName:"orientation0"=21.2447
+      AttrName:"offset"=0.765925,5.82658
+      AttrName:"Length1"=0.431142
+      AttrName:"orientation1"=-33.9695
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.341821,6.60975
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.559445,6.16732
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.0861,6.9476
+      AttrName:"Length1"=0.301033
+      AttrName:"orientation1"=59.578
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.578
+      AttrName:"offset"=-0.125297,7.36825
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.44177
+      AttrName:"orientation1"=-113.66
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.536085,6.10406
+      AttrName:"orientation1"=178.983
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.318816
+      AttrName:"orientation0"=178.983
+      AttrName:"offset"=-0.793254,6.78422
+      AttrName:"Length1"=0.357639
+      AttrName:"orientation1"=82.133
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=82.133
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.538386,5.19289
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.377001
+      AttrName:"orientation0"=-89.3605
+      AttrName:"Length1"=0.266562
+      AttrName:"orientation1"=-100.856
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.428819
+      AttrName:"orientation0"=95.2625
+      AttrName:"offset"=-0.534781,6.33634
+      AttrName:"Length1"=0.395613
+      AttrName:"orientation1"=82.7117
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.587968,6.2439
+      AttrName:"orientation1"=-89.3605
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.559231,5.22262
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.558998,5.36229
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.210977,4.11616
+      AttrName:"orientation1"=145.584
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.467479
+      AttrName:"orientation0"=127.026
+      AttrName:"offset"=-0.570389,5.39376
+      AttrName:"Length1"=0.654586
+      AttrName:"orientation1"=88.0762
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.614246
+      AttrName:"orientation0"=-91.4227
+      AttrName:"offset"=0.215768,4.1082
+      AttrName:"Length1"=0.44934
+      AttrName:"orientation1"=-130.322
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=-6.245e-17,-1.33227e-15,0
+      AttrName:"SCALE"=1.15242,1.15242,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,-0.105636,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0012549,-0.0839934,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,6.66134e-16,0
+      AttrName:"SCALE"=1,1.07456,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=3.90313e-18,-0.164844,0
+      AttrName:"SCALE"=1.04146,1.04146,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+
+  [TB_State]
+  Name:"L0-C3+001.0;-001.0"
+  Frame:220
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=0.419642,0.0161541,0
+      AttrName:"SCALE"=0.808637,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.10541,5.61535
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.806212,5.59348
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.471193,5.97683
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.879681,5.30492
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.644106,5.06466
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.305584,5.83542
+      AttrName:"orientation1"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.110407
+      AttrName:"orientation0"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.866359,5.78557
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.563724,5.69298
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.170767,0.0880981,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.220457,-0.119603,0.00302124
+      AttrName:"SCALE"=0.881961,1,1
+      AttrName:"ROTATION"=0,0,18.7907
+      AttrName:"SKEW"=3.18055e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.226305,0.0494767,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.0340241,-0.158118,0.00302124
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,11.006
+      AttrName:"SKEW"=3.65764e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00347481,-0.00206101,0.005
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.247763,-0.110163,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-17.8534
+      AttrName:"SKEW"=-6.36111e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.241487,-0.0465455,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,10.4777
+      AttrName:"SKEW"=-1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.202169,-0.00850381,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.137338,0.0128846,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.25854,5.62151
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.04954,5.44123
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=3.747e-15,5.32907e-15,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,44.9014
+      AttrName:"SKEW"=-1.90833e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=1.8735e-15,6.66134e-16,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-28.9339
+      AttrName:"SKEW"=-1.27222e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0419013,0.0718958,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,46.0886
+      AttrName:"SKEW"=9.54166e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.14169,0.194476,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,12.626
+      AttrName:"SKEW"=1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.060703,6.25003
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.323993
+      AttrName:"orientation0"=111.145
+      AttrName:"offset"=-0.507619,5.85271
+      AttrName:"Length1"=0.336117
+      AttrName:"orientation1"=-105.408
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.50902
+      AttrName:"orientation0"=-105.408
+      AttrName:"offset"=-0.273212,5.55428
+      AttrName:"Length1"=0.250015
+      AttrName:"orientation1"=75.6499
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=75.6499
+      AttrName:"offset"=0.125263,6.03927
+      AttrName:"Length1"=0.175075
+      AttrName:"orientation1"=9.0606
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.116871
+      AttrName:"orientation0"=89.3601
+      AttrName:"Length1"=0.0774731
+      AttrName:"orientation1"=130.363
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.0366663,6.23322
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.214828
+      AttrName:"orientation0"=129.432
+      AttrName:"offset"=-1.0922,6.26697
+      AttrName:"Length1"=0.455872
+      AttrName:"orientation1"=-128.404
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.777464
+      AttrName:"orientation0"=-128.404
+      AttrName:"offset"=-0.895901,5.6671
+      AttrName:"Length1"=0.198625
+      AttrName:"orientation1"=68.6134
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.371164
+      AttrName:"orientation0"=68.6134
+      AttrName:"offset"=-0.0985188,6.03693
+      AttrName:"Length1"=0.465418
+      AttrName:"orientation1"=-16.5653
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"=""
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00245096,-0.00102216,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.304199,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.316698,5.70474
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.157551
+      AttrName:"orientation0"=-141.797
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.82258,5.68466
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.342402,4.85186
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266847
+      AttrName:"orientation0"=23.6397
+      AttrName:"offset"=0.27914,4.89414
+      AttrName:"Length1"=0.207707
+      AttrName:"orientation1"=-29.821
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.864924,5.81332
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.883654
+      AttrName:"orientation0"=-94.7191
+      AttrName:"offset"=-0.257271,4.08651
+      AttrName:"Length1"=0.463858
+      AttrName:"orientation1"=-32.7606
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.431377,4.0955
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.185356,4.99397
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.425598
+      AttrName:"orientation0"=-66.028
+      AttrName:"offset"=-0.00725324,3.89857
+      AttrName:"Length1"=0.340489
+      AttrName:"orientation1"=-48.6382
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.175979,4.92648
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.558357,4.4451
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.337161
+      AttrName:"orientation1"=-40.4388
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.715568,5.67015
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.300225,4.22042
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.00929813,3.72659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.00136164,4.47439
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.0264,5.31965
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.497801
+      AttrName:"orientation0"=70.8566
+      AttrName:"offset"=0.844683,5.87525
+      AttrName:"Length1"=0.896163
+      AttrName:"orientation1"=-81.4959
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.000523123,6.68074
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.957483,5.2164
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.16331,6.88892
+      AttrName:"Length1"=0.563719
+      AttrName:"orientation1"=59.8587
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.8587
+      AttrName:"offset"=-0.229531,7.62093
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.351572
+      AttrName:"orientation1"=-148.538
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.486297,5.7937
+      AttrName:"orientation1"=185.261
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.476859
+      AttrName:"orientation0"=185.261
+      AttrName:"offset"=-0.970503,6.36447
+      AttrName:"Length1"=1.05761
+      AttrName:"orientation1"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.516036,5.23365
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.359449
+      AttrName:"orientation0"=-73.4548
+      AttrName:"Length1"=0.385482
+      AttrName:"orientation1"=-97.9209
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.391569
+      AttrName:"orientation0"=92.2894
+      AttrName:"offset"=-0.631785,6.41737
+      AttrName:"Length1"=0.395613
+      AttrName:"orientation1"=82.7117
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.488894,6.30583
+      AttrName:"orientation1"=-73.4548
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.644984,5.21659
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.531382,5.36608
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.128094,3.9724
+      AttrName:"orientation1"=136.4
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.702307
+      AttrName:"orientation0"=136.4
+      AttrName:"offset"=-0.646477,5.39736
+      AttrName:"Length1"=0.89634
+      AttrName:"orientation1"=86.681
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.600032
+      AttrName:"orientation0"=-91.0756
+      AttrName:"offset"=0.345666,3.98727
+      AttrName:"Length1"=0.386327
+      AttrName:"orientation1"=-122.475
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0576771,0,0
+      AttrName:"SCALE"=0.750947,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=-6.245e-17,0,0
+      AttrName:"SCALE"=0.843458,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0.219999,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0.200977,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.00241327,-0.00885666,0
+      AttrName:"SCALE"=0.639041,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=-1.08019e-15,1.33227e-15,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-28.8672
+      AttrName:"SKEW"=3.49861e-14
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+
+  [TB_State]
+  Name:"L1-C0-001.0;+000.0"
+  Frame:306
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=0.419642,0.0161541,0
+      AttrName:"SCALE"=-0.808637,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.10541,5.61535
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.806212,5.59348
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.471193,5.97683
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.879681,5.30492
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.644106,5.06466
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.305584,5.83542
+      AttrName:"orientation1"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.110407
+      AttrName:"orientation0"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.866359,5.78557
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.563724,5.69298
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.170767,0.0880981,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.220457,-0.119603,0.00302124
+      AttrName:"SCALE"=0.881961,1,1
+      AttrName:"ROTATION"=0,0,18.7907
+      AttrName:"SKEW"=3.18055e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.226305,0.0494767,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.0340241,-0.158118,0.00302124
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,11.006
+      AttrName:"SKEW"=3.65764e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00347481,-0.00206101,0.005
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.247763,-0.110163,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-17.8534
+      AttrName:"SKEW"=-6.36111e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.241487,-0.0465455,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,10.4777
+      AttrName:"SKEW"=-1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.202169,-0.00850381,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.137338,0.0128846,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.25854,5.62151
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.04954,5.44123
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=3.747e-15,5.32907e-15,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,44.9014
+      AttrName:"SKEW"=-1.90833e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=1.8735e-15,6.66134e-16,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-28.9339
+      AttrName:"SKEW"=-1.27222e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0419013,0.0718958,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,46.0886
+      AttrName:"SKEW"=9.54166e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.14169,0.194476,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,12.626
+      AttrName:"SKEW"=1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.060703,6.25003
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.323993
+      AttrName:"orientation0"=111.145
+      AttrName:"offset"=-0.507619,5.85271
+      AttrName:"Length1"=0.336117
+      AttrName:"orientation1"=-105.408
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.50902
+      AttrName:"orientation0"=-105.408
+      AttrName:"offset"=-0.273212,5.55428
+      AttrName:"Length1"=0.250015
+      AttrName:"orientation1"=75.6499
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=75.6499
+      AttrName:"offset"=0.125263,6.03927
+      AttrName:"Length1"=0.175075
+      AttrName:"orientation1"=9.0606
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.116871
+      AttrName:"orientation0"=89.3601
+      AttrName:"Length1"=0.0774731
+      AttrName:"orientation1"=130.363
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.0366663,6.23322
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.214828
+      AttrName:"orientation0"=129.432
+      AttrName:"offset"=-1.0922,6.26697
+      AttrName:"Length1"=0.455872
+      AttrName:"orientation1"=-128.404
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.777464
+      AttrName:"orientation0"=-128.404
+      AttrName:"offset"=-0.895901,5.6671
+      AttrName:"Length1"=0.198625
+      AttrName:"orientation1"=68.6134
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.371164
+      AttrName:"orientation0"=68.6134
+      AttrName:"offset"=-0.0985188,6.03693
+      AttrName:"Length1"=0.465418
+      AttrName:"orientation1"=-16.5653
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00245096,-0.00102216,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.304199,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.316698,5.70474
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.157551
+      AttrName:"orientation0"=-141.797
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.82258,5.68466
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.342402,4.85186
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266847
+      AttrName:"orientation0"=23.6397
+      AttrName:"offset"=0.27914,4.89414
+      AttrName:"Length1"=0.207707
+      AttrName:"orientation1"=-29.821
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.864924,5.81332
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.883654
+      AttrName:"orientation0"=-94.7191
+      AttrName:"offset"=-0.257271,4.08651
+      AttrName:"Length1"=0.463858
+      AttrName:"orientation1"=-32.7606
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.431377,4.0955
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.185356,4.99397
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.425598
+      AttrName:"orientation0"=-66.028
+      AttrName:"offset"=-0.00725324,3.89857
+      AttrName:"Length1"=0.340489
+      AttrName:"orientation1"=-48.6382
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.175979,4.92648
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.558357,4.4451
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.337161
+      AttrName:"orientation1"=-40.4388
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.715568,5.67015
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.300225,4.22042
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.00929813,3.72659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.00136164,4.47439
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.0264,5.31965
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.497801
+      AttrName:"orientation0"=70.8566
+      AttrName:"offset"=0.844683,5.87525
+      AttrName:"Length1"=0.896163
+      AttrName:"orientation1"=-81.4959
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.000523123,6.68074
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.957483,5.2164
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.16331,6.88892
+      AttrName:"Length1"=0.563719
+      AttrName:"orientation1"=59.8587
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.8587
+      AttrName:"offset"=-0.229531,7.62093
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.351572
+      AttrName:"orientation1"=-148.538
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.486297,5.7937
+      AttrName:"orientation1"=185.261
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.476859
+      AttrName:"orientation0"=185.261
+      AttrName:"offset"=-0.970503,6.36447
+      AttrName:"Length1"=1.05761
+      AttrName:"orientation1"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.516036,5.23365
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.359449
+      AttrName:"orientation0"=-73.4548
+      AttrName:"Length1"=0.385482
+      AttrName:"orientation1"=-97.9209
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.391569
+      AttrName:"orientation0"=92.2894
+      AttrName:"offset"=-0.631785,6.41737
+      AttrName:"Length1"=0.395613
+      AttrName:"orientation1"=82.7117
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.488894,6.30583
+      AttrName:"orientation1"=-73.4548
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.644984,5.21659
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.531382,5.36608
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.128094,3.9724
+      AttrName:"orientation1"=136.4
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.702307
+      AttrName:"orientation0"=136.4
+      AttrName:"offset"=-0.646477,5.39736
+      AttrName:"Length1"=0.89634
+      AttrName:"orientation1"=86.681
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.600032
+      AttrName:"orientation0"=-91.0756
+      AttrName:"offset"=0.345666,3.98727
+      AttrName:"Length1"=0.386327
+      AttrName:"orientation1"=-122.475
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0576771,0,0
+      AttrName:"SCALE"=0.750947,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=-6.245e-17,0,0
+      AttrName:"SCALE"=0.843458,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0.219999,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0.200977,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.00241327,-0.00885666,0
+      AttrName:"SCALE"=0.639041,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=-2.34968e-15,0,0
+      AttrName:"SCALE"=-1,1,1
+
+  [TB_State]
+  Name:"L1-C1-000.0;+000.0"
+  Frame:239
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0884462,0,0
+      AttrName:"SCALE"=-1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.11053,5.34657
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.795561,5.4808
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.511458,6.12924
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.866951,5.62178
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.665039,5.49427
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.398925,6.00074
+      AttrName:"orientation1"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.104186
+      AttrName:"orientation0"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.729469,5.88619
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.460821,5.77739
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.23746,5.48386
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.02087,5.49534
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.0444869,6.27332
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.872507,6.136
+      AttrName:"Length1"=0.590349
+      AttrName:"orientation1"=-111.935
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.279025
+      AttrName:"orientation0"=-111.935
+      AttrName:"offset"=-0.659277,5.88686
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=48.0602
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=48.0602
+      AttrName:"offset"=0.0400541,6.08112
+      AttrName:"Length1"=0.452751
+      AttrName:"orientation1"=-44.024
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0694047
+      AttrName:"orientation0"=72.7746
+      AttrName:"Length1"=0.0587893
+      AttrName:"orientation1"=96.0802
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.000993277,6.23517
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.571859,6.11365
+      AttrName:"Length1"=0.386365
+      AttrName:"orientation1"=-106.043
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.337356
+      AttrName:"orientation0"=-106.043
+      AttrName:"offset"=-0.311378,5.88894
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=81.1122
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.210769
+      AttrName:"orientation0"=81.1122
+      AttrName:"offset"=-0.0253492,6.08369
+      AttrName:"Length1"=0.316718
+      AttrName:"orientation1"=-37.5394
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.532445,5.70374
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.0612826
+      AttrName:"orientation0"=-6.42527
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.532445,5.70374
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.354661,4.91563
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.24863
+      AttrName:"orientation0"=8.02989
+      AttrName:"offset"=0.335803,4.90934
+      AttrName:"Length1"=0.247836
+      AttrName:"orientation1"=-12.2685
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.723582,5.65957
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.529294
+      AttrName:"orientation0"=-80.5063
+      AttrName:"offset"=-0.287075,4.16751
+      AttrName:"Length1"=0.618883
+      AttrName:"orientation1"=-65.7723
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.532252,4.14857
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.211419,5.03468
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.425598
+      AttrName:"orientation0"=-66.028
+      AttrName:"offset"=-0.00725324,3.89857
+      AttrName:"Length1"=0.340489
+      AttrName:"orientation1"=-48.6382
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.202525,4.9905
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.453741,4.58021
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.337161
+      AttrName:"orientation1"=-40.4388
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.715568,5.67015
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.300225,4.22042
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.00929813,3.72659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.00136164,4.47439
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.610348,6.18825
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.33348
+      AttrName:"orientation0"=21.2447
+      AttrName:"offset"=0.610113,6.02711
+      AttrName:"Length1"=0.431142
+      AttrName:"orientation1"=-33.9695
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.341821,6.60975
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.559445,6.16732
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.0861,6.9476
+      AttrName:"Length1"=0.301033
+      AttrName:"orientation1"=59.578
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.578
+      AttrName:"offset"=-0.125297,7.36825
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.44177
+      AttrName:"orientation1"=-113.66
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.536085,6.10406
+      AttrName:"orientation1"=178.983
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.318816
+      AttrName:"orientation0"=178.983
+      AttrName:"offset"=-0.793254,6.78422
+      AttrName:"Length1"=0.357639
+      AttrName:"orientation1"=82.133
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=82.133
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.535588,5.18633
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.37117
+      AttrName:"orientation0"=-86.3916
+      AttrName:"Length1"=0.364944
+      AttrName:"orientation1"=-91.8782
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.39749
+      AttrName:"orientation0"=88.4086
+      AttrName:"offset"=-0.475661,6.38121
+      AttrName:"Length1"=0.395613
+      AttrName:"orientation1"=82.7117
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.488894,6.30583
+      AttrName:"orientation1"=-84.0603
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.543738,5.18725
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.53225,5.38856
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.21351,4.03629
+      AttrName:"orientation1"=145.584
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.467479
+      AttrName:"orientation0"=127.026
+      AttrName:"offset"=-0.536061,5.38903
+      AttrName:"Length1"=0.610068
+      AttrName:"orientation1"=81.3763
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.580813
+      AttrName:"orientation0"=-81.8353
+      AttrName:"offset"=0.208167,4.03171
+      AttrName:"Length1"=0.44934
+      AttrName:"orientation1"=-130.322
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=-2.71267e-15,0,0
+      AttrName:"SCALE"=-1,1,1
+
+  [TB_State]
+  Name:"L1-C2+000.0;+000.0"
+  Frame:150
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0884462,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.11053,5.34657
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.795561,5.4808
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.511458,6.12924
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.866951,5.62178
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.665039,5.49427
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.398925,6.00074
+      AttrName:"orientation1"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.104186
+      AttrName:"orientation0"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.729469,5.88619
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.460821,5.77739
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.23746,5.48386
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.02087,5.49534
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.0444869,6.27332
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.872507,6.136
+      AttrName:"Length1"=0.590349
+      AttrName:"orientation1"=-111.935
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.279025
+      AttrName:"orientation0"=-111.935
+      AttrName:"offset"=-0.659277,5.88686
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=48.0602
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=48.0602
+      AttrName:"offset"=0.0400541,6.08112
+      AttrName:"Length1"=0.452751
+      AttrName:"orientation1"=-44.024
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0694047
+      AttrName:"orientation0"=72.7746
+      AttrName:"Length1"=0.0587893
+      AttrName:"orientation1"=96.0802
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.000993277,6.23517
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.571859,6.11365
+      AttrName:"Length1"=0.386365
+      AttrName:"orientation1"=-106.043
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.337356
+      AttrName:"orientation0"=-106.043
+      AttrName:"offset"=-0.311378,5.88894
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=81.1122
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.210769
+      AttrName:"orientation0"=81.1122
+      AttrName:"offset"=-0.0253492,6.08369
+      AttrName:"Length1"=0.316718
+      AttrName:"orientation1"=-37.5394
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.532445,5.70374
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.0612826
+      AttrName:"orientation0"=-6.42527
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.532445,5.70374
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.354661,4.91563
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.24863
+      AttrName:"orientation0"=8.02989
+      AttrName:"offset"=0.335803,4.90934
+      AttrName:"Length1"=0.247836
+      AttrName:"orientation1"=-12.2685
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.723582,5.65957
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.529294
+      AttrName:"orientation0"=-80.5063
+      AttrName:"offset"=-0.287075,4.16751
+      AttrName:"Length1"=0.618883
+      AttrName:"orientation1"=-65.7723
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.532252,4.14857
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.211419,5.03468
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.425598
+      AttrName:"orientation0"=-66.028
+      AttrName:"offset"=-0.00725324,3.89857
+      AttrName:"Length1"=0.340489
+      AttrName:"orientation1"=-48.6382
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.202525,4.9905
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.453741,4.58021
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.337161
+      AttrName:"orientation1"=-40.4388
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.715568,5.67015
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.300225,4.22042
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.00929813,3.72659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.00136164,4.47439
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.610348,6.18825
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.33348
+      AttrName:"orientation0"=21.2447
+      AttrName:"offset"=0.610113,6.02711
+      AttrName:"Length1"=0.431142
+      AttrName:"orientation1"=-33.9695
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.341821,6.60975
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.559445,6.16732
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.0861,6.9476
+      AttrName:"Length1"=0.301033
+      AttrName:"orientation1"=59.578
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.578
+      AttrName:"offset"=-0.125297,7.36825
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.44177
+      AttrName:"orientation1"=-113.66
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.536085,6.10406
+      AttrName:"orientation1"=178.983
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.318816
+      AttrName:"orientation0"=178.983
+      AttrName:"offset"=-0.793254,6.78422
+      AttrName:"Length1"=0.357639
+      AttrName:"orientation1"=82.133
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=82.133
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.535588,5.18633
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.37117
+      AttrName:"orientation0"=-86.3916
+      AttrName:"Length1"=0.364944
+      AttrName:"orientation1"=-91.8782
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.39749
+      AttrName:"orientation0"=88.4086
+      AttrName:"offset"=-0.475661,6.38121
+      AttrName:"Length1"=0.395613
+      AttrName:"orientation1"=82.7117
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.488894,6.30583
+      AttrName:"orientation1"=-84.0603
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.543738,5.18725
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.53225,5.38856
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.21351,4.03629
+      AttrName:"orientation1"=145.584
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.467479
+      AttrName:"orientation0"=127.026
+      AttrName:"offset"=-0.536061,5.38903
+      AttrName:"Length1"=0.610068
+      AttrName:"orientation1"=81.3763
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.580813
+      AttrName:"orientation0"=-81.8353
+      AttrName:"offset"=0.208167,4.03171
+      AttrName:"Length1"=0.44934
+      AttrName:"orientation1"=-130.322
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+
+  [TB_State]
+  Name:"L1-C3+001.0;+000.0"
+  Frame:152
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=0.419642,0.0161541,0
+      AttrName:"SCALE"=0.808637,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.10541,5.61535
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.806212,5.59348
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.471193,5.97683
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.879681,5.30492
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.644106,5.06466
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.305584,5.83542
+      AttrName:"orientation1"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.110407
+      AttrName:"orientation0"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.866359,5.78557
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.563724,5.69298
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.170767,0.0880981,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.220457,-0.119603,0.00302124
+      AttrName:"SCALE"=0.881961,1,1
+      AttrName:"ROTATION"=0,0,18.7907
+      AttrName:"SKEW"=3.18055e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.226305,0.0494767,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.0340241,-0.158118,0.00302124
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,11.006
+      AttrName:"SKEW"=3.65764e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00347481,-0.00206101,0.005
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.247763,-0.110163,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-17.8534
+      AttrName:"SKEW"=-6.36111e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.241487,-0.0465455,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,10.4777
+      AttrName:"SKEW"=-1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.202169,-0.00850381,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.137338,0.0128846,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.25854,5.62151
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.04954,5.44123
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=3.747e-15,5.32907e-15,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,44.9014
+      AttrName:"SKEW"=-1.90833e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=1.8735e-15,6.66134e-16,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-28.9339
+      AttrName:"SKEW"=-1.27222e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0419013,0.0718958,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,46.0886
+      AttrName:"SKEW"=9.54166e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.14169,0.194476,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,12.626
+      AttrName:"SKEW"=1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.060703,6.25003
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.323993
+      AttrName:"orientation0"=111.145
+      AttrName:"offset"=-0.507619,5.85271
+      AttrName:"Length1"=0.336117
+      AttrName:"orientation1"=-105.408
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.50902
+      AttrName:"orientation0"=-105.408
+      AttrName:"offset"=-0.273212,5.55428
+      AttrName:"Length1"=0.250015
+      AttrName:"orientation1"=75.6499
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=75.6499
+      AttrName:"offset"=0.125263,6.03927
+      AttrName:"Length1"=0.175075
+      AttrName:"orientation1"=9.0606
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.116871
+      AttrName:"orientation0"=89.3601
+      AttrName:"Length1"=0.0774731
+      AttrName:"orientation1"=130.363
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.0366663,6.23322
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.214828
+      AttrName:"orientation0"=129.432
+      AttrName:"offset"=-1.0922,6.26697
+      AttrName:"Length1"=0.455872
+      AttrName:"orientation1"=-128.404
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.777464
+      AttrName:"orientation0"=-128.404
+      AttrName:"offset"=-0.895901,5.6671
+      AttrName:"Length1"=0.198625
+      AttrName:"orientation1"=68.6134
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.371164
+      AttrName:"orientation0"=68.6134
+      AttrName:"offset"=-0.0985188,6.03693
+      AttrName:"Length1"=0.465418
+      AttrName:"orientation1"=-16.5653
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00245096,-0.00102216,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.304199,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.316698,5.70474
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.157551
+      AttrName:"orientation0"=-141.797
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.82258,5.68466
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.342402,4.85186
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266847
+      AttrName:"orientation0"=23.6397
+      AttrName:"offset"=0.27914,4.89414
+      AttrName:"Length1"=0.207707
+      AttrName:"orientation1"=-29.821
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.864924,5.81332
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.883654
+      AttrName:"orientation0"=-94.7191
+      AttrName:"offset"=-0.257271,4.08651
+      AttrName:"Length1"=0.463858
+      AttrName:"orientation1"=-32.7606
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.431377,4.0955
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.185356,4.99397
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.425598
+      AttrName:"orientation0"=-66.028
+      AttrName:"offset"=-0.00725324,3.89857
+      AttrName:"Length1"=0.340489
+      AttrName:"orientation1"=-48.6382
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.175979,4.92648
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.558357,4.4451
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.337161
+      AttrName:"orientation1"=-40.4388
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.715568,5.67015
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.300225,4.22042
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.00929813,3.72659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.00136164,4.47439
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.0264,5.31965
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.497801
+      AttrName:"orientation0"=70.8566
+      AttrName:"offset"=0.844683,5.87525
+      AttrName:"Length1"=0.896163
+      AttrName:"orientation1"=-81.4959
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.000523123,6.68074
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.957483,5.2164
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.16331,6.88892
+      AttrName:"Length1"=0.563719
+      AttrName:"orientation1"=59.8587
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.8587
+      AttrName:"offset"=-0.229531,7.62093
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.351572
+      AttrName:"orientation1"=-148.538
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.486297,5.7937
+      AttrName:"orientation1"=185.261
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.476859
+      AttrName:"orientation0"=185.261
+      AttrName:"offset"=-0.970503,6.36447
+      AttrName:"Length1"=1.05761
+      AttrName:"orientation1"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.516036,5.23365
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.359449
+      AttrName:"orientation0"=-73.4548
+      AttrName:"Length1"=0.385482
+      AttrName:"orientation1"=-97.9209
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.391569
+      AttrName:"orientation0"=92.2894
+      AttrName:"offset"=-0.631785,6.41737
+      AttrName:"Length1"=0.395613
+      AttrName:"orientation1"=82.7117
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.488894,6.30583
+      AttrName:"orientation1"=-73.4548
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.644984,5.21659
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.531382,5.36608
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.128094,3.9724
+      AttrName:"orientation1"=136.4
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.702307
+      AttrName:"orientation0"=136.4
+      AttrName:"offset"=-0.646477,5.39736
+      AttrName:"Length1"=0.89634
+      AttrName:"orientation1"=86.681
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.600032
+      AttrName:"orientation0"=-91.0756
+      AttrName:"offset"=0.345666,3.98727
+      AttrName:"Length1"=0.386327
+      AttrName:"orientation1"=-122.475
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0576771,0,0
+      AttrName:"SCALE"=0.750947,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=-6.245e-17,0,0
+      AttrName:"SCALE"=0.843458,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0.219999,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0.200977,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.00241327,-0.00885666,0
+      AttrName:"SCALE"=0.639041,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+
+  [TB_State]
+  Name:"L2-C0-001.0;+001.0"
+  Frame:324
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=0.419642,0.0161541,0
+      AttrName:"SCALE"=-0.808637,1,1
+      AttrName:"ROTATION"=0,0,-12.6908
+      AttrName:"SKEW"=-8.11041e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.10541,5.61535
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.806212,5.59348
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.471193,5.97683
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.879681,5.30492
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.644106,5.06466
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.305584,5.83542
+      AttrName:"orientation1"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.110407
+      AttrName:"orientation0"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.866359,5.78557
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.563724,5.69298
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.170767,0.0880981,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.220457,-0.119603,0.00302124
+      AttrName:"SCALE"=0.881961,1,1
+      AttrName:"ROTATION"=0,0,18.7907
+      AttrName:"SKEW"=3.18055e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.226305,0.0494767,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.0340241,-0.158118,0.00302124
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,11.006
+      AttrName:"SKEW"=3.65764e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00347481,-0.00206101,0.005
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.247763,-0.110163,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-17.8534
+      AttrName:"SKEW"=-6.36111e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.241487,-0.0465455,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,10.4777
+      AttrName:"SKEW"=-1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.202169,-0.00850381,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.137338,0.0128846,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.25854,5.62151
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.04954,5.44123
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=3.747e-15,5.32907e-15,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,44.9014
+      AttrName:"SKEW"=-1.90833e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=1.8735e-15,6.66134e-16,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-28.9339
+      AttrName:"SKEW"=-1.27222e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0419013,0.0718958,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,46.0886
+      AttrName:"SKEW"=9.54166e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.14169,0.194476,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,12.626
+      AttrName:"SKEW"=1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.060703,6.25003
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.323993
+      AttrName:"orientation0"=111.145
+      AttrName:"offset"=-0.507619,5.85271
+      AttrName:"Length1"=0.336117
+      AttrName:"orientation1"=-105.408
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.50902
+      AttrName:"orientation0"=-105.408
+      AttrName:"offset"=-0.273212,5.55428
+      AttrName:"Length1"=0.250015
+      AttrName:"orientation1"=75.6499
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=75.6499
+      AttrName:"offset"=0.125263,6.03927
+      AttrName:"Length1"=0.175075
+      AttrName:"orientation1"=9.0606
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.116871
+      AttrName:"orientation0"=89.3601
+      AttrName:"Length1"=0.0774731
+      AttrName:"orientation1"=130.363
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.0366663,6.23322
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.214828
+      AttrName:"orientation0"=129.432
+      AttrName:"offset"=-1.0922,6.26697
+      AttrName:"Length1"=0.455872
+      AttrName:"orientation1"=-128.404
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.777464
+      AttrName:"orientation0"=-128.404
+      AttrName:"offset"=-0.895901,5.6671
+      AttrName:"Length1"=0.198625
+      AttrName:"orientation1"=68.6134
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.371164
+      AttrName:"orientation0"=68.6134
+      AttrName:"offset"=-0.0985188,6.03693
+      AttrName:"Length1"=0.465418
+      AttrName:"orientation1"=-16.5653
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"=""
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00245096,-0.00102216,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.304199,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.316698,5.70474
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.157551
+      AttrName:"orientation0"=-141.797
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.82258,5.68466
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.342402,4.85186
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266847
+      AttrName:"orientation0"=23.6397
+      AttrName:"offset"=0.27914,4.89414
+      AttrName:"Length1"=0.207707
+      AttrName:"orientation1"=-29.821
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.864924,5.81332
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.883654
+      AttrName:"orientation0"=-94.7191
+      AttrName:"offset"=-0.257271,4.08651
+      AttrName:"Length1"=0.463858
+      AttrName:"orientation1"=-32.7606
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.431377,4.0955
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.185356,4.99397
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.425598
+      AttrName:"orientation0"=-66.028
+      AttrName:"offset"=-0.00725324,3.89857
+      AttrName:"Length1"=0.340489
+      AttrName:"orientation1"=-48.6382
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.175979,4.92648
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.558357,4.4451
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.337161
+      AttrName:"orientation1"=-40.4388
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.715568,5.67015
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.300225,4.22042
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.00929813,3.72659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.00136164,4.47439
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.0264,5.31965
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.497801
+      AttrName:"orientation0"=70.8566
+      AttrName:"offset"=0.844683,5.87525
+      AttrName:"Length1"=0.896163
+      AttrName:"orientation1"=-81.4959
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.000523123,6.68074
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.957483,5.2164
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.16331,6.88892
+      AttrName:"Length1"=0.563719
+      AttrName:"orientation1"=59.8587
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.8587
+      AttrName:"offset"=-0.229531,7.62093
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.351572
+      AttrName:"orientation1"=-148.538
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.486297,5.7937
+      AttrName:"orientation1"=185.261
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.476859
+      AttrName:"orientation0"=185.261
+      AttrName:"offset"=-0.970503,6.36447
+      AttrName:"Length1"=1.05761
+      AttrName:"orientation1"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.516036,5.23365
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.359449
+      AttrName:"orientation0"=-73.4548
+      AttrName:"Length1"=0.385482
+      AttrName:"orientation1"=-97.9209
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.391569
+      AttrName:"orientation0"=92.2894
+      AttrName:"offset"=-0.631785,6.41737
+      AttrName:"Length1"=0.395613
+      AttrName:"orientation1"=82.7117
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.488894,6.30583
+      AttrName:"orientation1"=-73.4548
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.644984,5.21659
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.531382,5.36608
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.128094,3.9724
+      AttrName:"orientation1"=136.4
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.702307
+      AttrName:"orientation0"=136.4
+      AttrName:"offset"=-0.646477,5.39736
+      AttrName:"Length1"=0.89634
+      AttrName:"orientation1"=86.681
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.600032
+      AttrName:"orientation0"=-91.0756
+      AttrName:"offset"=0.345666,3.98727
+      AttrName:"Length1"=0.386327
+      AttrName:"orientation1"=-122.475
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0576771,0,0
+      AttrName:"SCALE"=0.750947,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=-6.245e-17,0,0
+      AttrName:"SCALE"=0.843458,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0.219999,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0.200977,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.00241327,-0.00885666,0
+      AttrName:"SCALE"=0.639041,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=-8.3039e-16,-4.66294e-15,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,21.0798
+      AttrName:"SKEW"=6.36111e-15
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=-2.34968e-15,0,0
+      AttrName:"SCALE"=-1,1,1
+
+  [TB_State]
+  Name:"L2-C1-000.0;+001.0"
+  Frame:238
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0957796,0.241688,0
+      AttrName:"SCALE"=-1,0.652026,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.11053,5.34657
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.795561,5.4808
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.511458,6.12924
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.866951,5.62178
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.665039,5.49427
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.398925,6.00074
+      AttrName:"orientation1"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.104186
+      AttrName:"orientation0"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.729469,5.88619
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.460821,5.77739
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.23746,5.48386
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.02087,5.49534
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.0444869,6.27332
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.872507,6.136
+      AttrName:"Length1"=0.590349
+      AttrName:"orientation1"=-111.935
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.279025
+      AttrName:"orientation0"=-111.935
+      AttrName:"offset"=-0.659277,5.88686
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=48.0602
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=48.0602
+      AttrName:"offset"=0.0400541,6.08112
+      AttrName:"Length1"=0.452751
+      AttrName:"orientation1"=-44.024
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0694047
+      AttrName:"orientation0"=72.7746
+      AttrName:"Length1"=0.0587893
+      AttrName:"orientation1"=96.0802
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.000993277,6.23517
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.571859,6.11365
+      AttrName:"Length1"=0.386365
+      AttrName:"orientation1"=-106.043
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.337356
+      AttrName:"orientation0"=-106.043
+      AttrName:"offset"=-0.311378,5.88894
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=81.1122
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.210769
+      AttrName:"orientation0"=81.1122
+      AttrName:"offset"=-0.0253492,6.08369
+      AttrName:"Length1"=0.316718
+      AttrName:"orientation1"=-37.5394
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.026671,0.0844583,-0.00199127
+      AttrName:"SCALE"=1,0.933294,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,3.9968e-15,-0.00199127
+      AttrName:"SCALE"=1,0.880264,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0395832,-0.0388888,0
+      AttrName:"SCALE"=1,0.86623,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.527271,5.66633
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.0612826
+      AttrName:"orientation0"=-6.42527
+      AttrName:"offset"=-0.357882,5.79457
+      AttrName:"Length1"=0.0820178
+      AttrName:"orientation1"=34.3744
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.527888,5.68447
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.354175,5.78271
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,1.41225,0
+      AttrName:"SCALE"=1,0.769497,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,1.41225,0
+      AttrName:"SCALE"=1,0.769497,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,1.19845,0
+      AttrName:"SCALE"=1,0.805422,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.354661,4.91563
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.24863
+      AttrName:"orientation0"=8.02989
+      AttrName:"offset"=0.335803,4.90934
+      AttrName:"Length1"=0.247836
+      AttrName:"orientation1"=-12.2685
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.723582,5.65957
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.529294
+      AttrName:"orientation0"=-80.5063
+      AttrName:"offset"=-0.339158,4.12862
+      AttrName:"Length1"=0.618883
+      AttrName:"orientation1"=-65.7723
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.532252,4.14857
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.211419,5.03468
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.432191
+      AttrName:"orientation0"=-72.0309
+      AttrName:"offset"=-0.0218365,3.92357
+      AttrName:"Length1"=0.313249
+      AttrName:"orientation1"=-22.4147
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.202525,4.9905
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.476658,4.54687
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.342735
+      AttrName:"orientation1"=-9.67226
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.715568,5.67015
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.341891,4.17042
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.0301314,3.52659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=0.00530501,4.56105
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.610348,6.18825
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.33348
+      AttrName:"orientation0"=21.2447
+      AttrName:"offset"=0.610113,6.02711
+      AttrName:"Length1"=0.431142
+      AttrName:"orientation1"=-33.9695
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.341821,6.60975
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.559445,6.16732
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.0861,6.9476
+      AttrName:"Length1"=0.301033
+      AttrName:"orientation1"=59.578
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.578
+      AttrName:"offset"=-0.125297,7.36825
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.44177
+      AttrName:"orientation1"=-113.66
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.336085,6.74573
+      AttrName:"orientation1"=178.983
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.318816
+      AttrName:"orientation0"=178.983
+      AttrName:"offset"=-0.793254,6.78422
+      AttrName:"Length1"=0.482441
+      AttrName:"orientation1"=83.4297
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=83.4297
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.535588,5.18633
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.37117
+      AttrName:"orientation0"=-86.3916
+      AttrName:"Length1"=0.364944
+      AttrName:"orientation1"=-91.8782
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.39749
+      AttrName:"orientation0"=88.4086
+      AttrName:"offset"=-0.44656,6.12018
+      AttrName:"Length1"=0.40494
+      AttrName:"orientation1"=84.3871
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.449211,6.10124
+      AttrName:"orientation1"=-84.0603
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.543738,5.18725
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.53225,5.38856
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.223927,4.10851
+      AttrName:"orientation1"=145.584
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.482133
+      AttrName:"orientation0"=129.795
+      AttrName:"offset"=-0.536061,5.38903
+      AttrName:"Length1"=0.728432
+      AttrName:"orientation1"=84.7639
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.797267
+      AttrName:"orientation0"=-85.1142
+      AttrName:"offset"=0.251916,4.12338
+      AttrName:"Length1"=0.483122
+      AttrName:"orientation1"=-127.312
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.01875,-0.0638887,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,-0.408888,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0.201058,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0.344444,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00529099,0.243386,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0026455,0.0780245,0
+      AttrName:"SCALE"=1,0.755074,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=-2.34968e-15,0,0
+      AttrName:"SCALE"=-1,1,1
+
+  [TB_State]
+  Name:"L2-C2+000.0;+001.0"
+  Frame:149
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0957796,0.241688,0
+      AttrName:"SCALE"=1,0.652026,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.11053,5.34657
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.795561,5.4808
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.511458,6.12924
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.866951,5.62178
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.665039,5.49427
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.398925,6.00074
+      AttrName:"orientation1"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.104186
+      AttrName:"orientation0"=86.9264
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.729469,5.88619
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.460821,5.77739
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.23746,5.48386
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.02087,5.49534
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.0444869,6.27332
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.872507,6.136
+      AttrName:"Length1"=0.590349
+      AttrName:"orientation1"=-111.935
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.279025
+      AttrName:"orientation0"=-111.935
+      AttrName:"offset"=-0.659277,5.88686
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=48.0602
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=48.0602
+      AttrName:"offset"=0.0400541,6.08112
+      AttrName:"Length1"=0.452751
+      AttrName:"orientation1"=-44.024
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0694047
+      AttrName:"orientation0"=72.7746
+      AttrName:"Length1"=0.0587893
+      AttrName:"orientation1"=96.0802
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.000993277,6.23517
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.240938
+      AttrName:"orientation0"=111.473
+      AttrName:"offset"=-0.571859,6.11365
+      AttrName:"Length1"=0.386365
+      AttrName:"orientation1"=-106.043
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.337356
+      AttrName:"orientation0"=-106.043
+      AttrName:"offset"=-0.311378,5.88894
+      AttrName:"Length1"=0.144703
+      AttrName:"orientation1"=81.1122
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.210769
+      AttrName:"orientation0"=81.1122
+      AttrName:"offset"=-0.0253492,6.08369
+      AttrName:"Length1"=0.316718
+      AttrName:"orientation1"=-37.5394
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.026671,0.0844583,-0.00199127
+      AttrName:"SCALE"=1,0.933294,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,3.9968e-15,-0.00199127
+      AttrName:"SCALE"=1,0.880264,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0395832,-0.0388888,0
+      AttrName:"SCALE"=1,0.86623,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.527271,5.66633
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.0612826
+      AttrName:"orientation0"=-6.42527
+      AttrName:"offset"=-0.357882,5.79457
+      AttrName:"Length1"=0.0820178
+      AttrName:"orientation1"=34.3744
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.527888,5.68447
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.354175,5.78271
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,1.41225,0
+      AttrName:"SCALE"=1,0.769497,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,1.41225,0
+      AttrName:"SCALE"=1,0.769497,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,1.19845,0
+      AttrName:"SCALE"=1,0.805422,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.354661,4.91563
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.24863
+      AttrName:"orientation0"=8.02989
+      AttrName:"offset"=0.335803,4.90934
+      AttrName:"Length1"=0.247836
+      AttrName:"orientation1"=-12.2685
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.723582,5.65957
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.529294
+      AttrName:"orientation0"=-80.5063
+      AttrName:"offset"=-0.339158,4.12862
+      AttrName:"Length1"=0.618883
+      AttrName:"orientation1"=-65.7723
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.532252,4.14857
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.211419,5.03468
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.432191
+      AttrName:"orientation0"=-72.0309
+      AttrName:"offset"=-0.0218365,3.92357
+      AttrName:"Length1"=0.313249
+      AttrName:"orientation1"=-22.4147
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.202525,4.9905
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.476658,4.54687
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.342735
+      AttrName:"orientation1"=-9.67226
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.715568,5.67015
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.341891,4.17042
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.0301314,3.52659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=0.00530501,4.56105
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.610348,6.18825
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.33348
+      AttrName:"orientation0"=21.2447
+      AttrName:"offset"=0.610113,6.02711
+      AttrName:"Length1"=0.431142
+      AttrName:"orientation1"=-33.9695
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.341821,6.60975
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.559445,6.16732
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.0861,6.9476
+      AttrName:"Length1"=0.301033
+      AttrName:"orientation1"=59.578
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.578
+      AttrName:"offset"=-0.125297,7.36825
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.44177
+      AttrName:"orientation1"=-113.66
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.336085,6.74573
+      AttrName:"orientation1"=178.983
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.318816
+      AttrName:"orientation0"=178.983
+      AttrName:"offset"=-0.793254,6.78422
+      AttrName:"Length1"=0.482441
+      AttrName:"orientation1"=83.4297
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=83.4297
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.535588,5.18633
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.37117
+      AttrName:"orientation0"=-86.3916
+      AttrName:"Length1"=0.364944
+      AttrName:"orientation1"=-91.8782
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.39749
+      AttrName:"orientation0"=88.4086
+      AttrName:"offset"=-0.44656,6.12018
+      AttrName:"Length1"=0.40494
+      AttrName:"orientation1"=84.3871
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.449211,6.10124
+      AttrName:"orientation1"=-84.0603
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.543738,5.18725
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.53225,5.38856
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.223927,4.10851
+      AttrName:"orientation1"=145.584
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.482133
+      AttrName:"orientation0"=129.795
+      AttrName:"offset"=-0.536061,5.38903
+      AttrName:"Length1"=0.728432
+      AttrName:"orientation1"=84.7639
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.797267
+      AttrName:"orientation0"=-85.1142
+      AttrName:"offset"=0.251916,4.12338
+      AttrName:"Length1"=0.483122
+      AttrName:"orientation1"=-127.312
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.01875,-0.0638887,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,-0.408888,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0.201058,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0.344444,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00529099,0.243386,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0026455,0.0780245,0
+      AttrName:"SCALE"=1,0.755074,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+
+  [TB_State]
+  Name:"L2-C3+001.0;+001.0"
+  Frame:214
+  Node Count:94
+    [TB_NodeState]
+    Node:"~/Head/Auto-G_3/Auto-G-G_2/Logo_P"
+    Attr Count:4
+      AttrName:"POSITION"=0.419642,0.0161541,0
+      AttrName:"SCALE"=0.808637,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.10541,5.61535
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_8/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.806212,5.59348
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.471193,5.97683
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.879681,5.30492
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-0.644106,5.06466
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_2"
+    Attr Count:2
+      AttrName:"offset"=-0.305584,5.83542
+      AttrName:"orientation1"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_2/Curve_3"
+    Attr Count:2
+      AttrName:"Length0"=0.110407
+      AttrName:"orientation0"=62.9677
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.866359,5.78557
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Deformation-Hair_6/Curve_2"
+    Attr Count:1
+      AttrName:"offset"=-0.563724,5.69298
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_10-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.170767,0.0880981,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.220457,-0.119603,0.00302124
+      AttrName:"SCALE"=0.881961,1,1
+      AttrName:"ROTATION"=0,0,18.7907
+      AttrName:"SKEW"=3.18055e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_11-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.226305,0.0494767,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_5-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.0340241,-0.158118,0.00302124
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,11.006
+      AttrName:"SKEW"=3.65764e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_2_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00347481,-0.00206101,0.005
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_8-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.247763,-0.110163,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-17.8534
+      AttrName:"SKEW"=-6.36111e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.241487,-0.0465455,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,10.4777
+      AttrName:"SKEW"=-1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_9-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.202169,-0.00850381,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L/Hair_12-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.137338,0.0128846,0
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-1.25854,5.62151
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Deformation-Hair_4/Curve_1"
+    Attr Count:1
+      AttrName:"offset"=-1.04954,5.44123
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_6-P"
+    Attr Count:4
+      AttrName:"POSITION"=3.747e-15,5.32907e-15,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,44.9014
+      AttrName:"SKEW"=-1.90833e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_5-P"
+    Attr Count:4
+      AttrName:"POSITION"=1.8735e-15,6.66134e-16,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-28.9339
+      AttrName:"SKEW"=-1.27222e-14
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_4-P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0419013,0.0718958,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,46.0886
+      AttrName:"SKEW"=9.54166e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L_1/Hair_7-P"
+    Attr Count:4
+      AttrName:"POSITION"=0.14169,0.194476,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,12.626
+      AttrName:"SKEW"=1.59028e-15
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Offset"
+    Attr Count:1
+      AttrName:"offset"=0.060703,6.25003
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.323993
+      AttrName:"orientation0"=111.145
+      AttrName:"offset"=-0.507619,5.85271
+      AttrName:"Length1"=0.336117
+      AttrName:"orientation1"=-105.408
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.50902
+      AttrName:"orientation0"=-105.408
+      AttrName:"offset"=-0.273212,5.55428
+      AttrName:"Length1"=0.250015
+      AttrName:"orientation1"=75.6499
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_2"
+    Attr Count:4
+      AttrName:"orientation0"=75.6499
+      AttrName:"offset"=0.125263,6.03927
+      AttrName:"Length1"=0.175075
+      AttrName:"orientation1"=9.0606
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair/Curve_3"
+    Attr Count:4
+      AttrName:"Length0"=0.116871
+      AttrName:"orientation0"=89.3601
+      AttrName:"Length1"=0.0774731
+      AttrName:"orientation1"=130.363
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.0366663,6.23322
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.214828
+      AttrName:"orientation0"=129.432
+      AttrName:"offset"=-1.0922,6.26697
+      AttrName:"Length1"=0.455872
+      AttrName:"orientation1"=-128.404
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.777464
+      AttrName:"orientation0"=-128.404
+      AttrName:"offset"=-0.895901,5.6671
+      AttrName:"Length1"=0.198625
+      AttrName:"orientation1"=68.6134
+    [TB_NodeState]
+    Node:"~/Head/Hair/Deformation-Hair_1/Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.371164
+      AttrName:"orientation0"=68.6134
+      AttrName:"offset"=-0.0985188,6.03693
+      AttrName:"Length1"=0.465418
+      AttrName:"orientation1"=-16.5653
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_13"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"=""
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.00245096,-0.00102216,0.004
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_L-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.304199,0,-0.002
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Hair/Hair_MP_Front"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.316698,5.70474
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.157551
+      AttrName:"orientation0"=-141.797
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.82258,5.68466
+    [TB_NodeState]
+    Node:"~/Head/Glass/Deformation-Glass_1/Curve"
+    Attr Count:3
+      AttrName:"offset"=-0.346762,5.67863
+      AttrName:"Length1"=0.0727963
+      AttrName:"orientation1"=18.945
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_1_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Glass/Glass_M_P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.342402,4.85186
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_0/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266847
+      AttrName:"orientation0"=23.6397
+      AttrName:"offset"=0.27914,4.89414
+      AttrName:"Length1"=0.207707
+      AttrName:"orientation1"=-29.821
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.864924,5.81332
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.883654
+      AttrName:"orientation0"=-94.7191
+      AttrName:"offset"=-0.257271,4.08651
+      AttrName:"Length1"=0.463858
+      AttrName:"orientation1"=-32.7606
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.431377,4.0955
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_5/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.185356,4.99397
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_6/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.425598
+      AttrName:"orientation0"=-66.028
+      AttrName:"offset"=-0.00725324,3.89857
+      AttrName:"Length1"=0.340489
+      AttrName:"orientation1"=-48.6382
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.175979,4.92648
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.558357,4.4451
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_3/Curve"
+    Attr Count:2
+      AttrName:"Length1"=0.337161
+      AttrName:"orientation1"=-40.4388
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.715568,5.67015
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_2/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.300225,4.22042
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.00929813,3.72659
+    [TB_NodeState]
+    Node:"~/Head/Beard/Deformation-Beard_4/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.00136164,4.47439
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_4_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Beard/Beard_0_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Offset"
+    Attr Count:1
+      AttrName:"offset"=-1.0264,5.31965
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Cutter_Forehead/Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.497801
+      AttrName:"orientation0"=70.8566
+      AttrName:"offset"=0.844683,5.87525
+      AttrName:"Length1"=0.896163
+      AttrName:"orientation1"=-81.4959
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Offset"
+    Attr Count:1
+      AttrName:"offset"=-0.000523123,6.68074
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve"
+    Attr Count:1
+      AttrName:"offset"=-0.957483,5.2164
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_1"
+    Attr Count:3
+      AttrName:"offset"=-1.16331,6.88892
+      AttrName:"Length1"=0.563719
+      AttrName:"orientation1"=59.8587
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_2"
+    Attr Count:2
+      AttrName:"orientation0"=59.8587
+      AttrName:"offset"=-0.229531,7.62093
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat_1/Curve_3"
+    Attr Count:2
+      AttrName:"Length1"=0.351572
+      AttrName:"orientation1"=-148.538
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve"
+    Attr Count:2
+      AttrName:"offset"=-0.486297,5.7937
+      AttrName:"orientation1"=185.261
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.476859
+      AttrName:"orientation0"=185.261
+      AttrName:"offset"=-0.970503,6.36447
+      AttrName:"Length1"=1.05761
+      AttrName:"orientation1"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-Hat/Curve_2"
+    Attr Count:1
+      AttrName:"orientation0"=79.1135
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.516036,5.23365
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.359449
+      AttrName:"orientation0"=-73.4548
+      AttrName:"Length1"=0.385482
+      AttrName:"orientation1"=-97.9209
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.391569
+      AttrName:"orientation0"=92.2894
+      AttrName:"offset"=-0.631785,6.41737
+      AttrName:"Length1"=0.395613
+      AttrName:"orientation1"=82.7117
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE_2"
+    Attr Count:2
+      AttrName:"offset"=0.488894,6.30583
+      AttrName:"orientation1"=-73.4548
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_1/CURVE"
+    Attr Count:1
+      AttrName:"offset"=-0.644984,5.21659
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=0.531382,5.36608
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_1"
+    Attr Count:2
+      AttrName:"offset"=-0.128094,3.9724
+      AttrName:"orientation1"=136.4
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.702307
+      AttrName:"orientation0"=136.4
+      AttrName:"offset"=-0.646477,5.39736
+      AttrName:"Length1"=0.89634
+      AttrName:"orientation1"=86.681
+    [TB_NodeState]
+    Node:"~/Head/Deformation-ASD_asdf_2/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.600032
+      AttrName:"orientation0"=-91.0756
+      AttrName:"offset"=0.345666,3.98727
+      AttrName:"Length1"=0.386327
+      AttrName:"orientation1"=-122.475
+    [TB_NodeState]
+    Node:"~/Head/Cutter_Forehead_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hat_P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Noise_P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0576771,0,0
+      AttrName:"SCALE"=0.750947,1,1
+    [TB_NodeState]
+    Node:"~/Head/Mouth_P"
+    Attr Count:2
+      AttrName:"POSITION"=-6.245e-17,0,0
+      AttrName:"SCALE"=0.843458,1,1
+    [TB_NodeState]
+    Node:"~/Head/Beard_P-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_MP"
+    Attr Count:1
+      AttrName:"POSITION"=0.219999,0,0
+    [TB_NodeState]
+    Node:"~/Head/Face_Eye"
+    Attr Count:1
+      AttrName:"POSITION"=0.200977,0,0
+    [TB_NodeState]
+    Node:"~/Head/Hair-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.00241327,-0.00885666,0
+      AttrName:"SCALE"=0.639041,1,1
+    [TB_NodeState]
+    Node:"~/Head/Eye_R-P-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Head/Handler_H_P"
+    Attr Count:4
+      AttrName:"POSITION"=1.66761e-15,-2.66454e-15,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,22.8061
+      AttrName:"SKEW"=9.54166e-15
+    [TB_NodeState]
+    Node:"~/Head-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+

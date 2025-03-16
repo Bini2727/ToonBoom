@@ -1,0 +1,41 @@
+[TB_StateManager]
+State Count:3
+  [TB_State]
+  Name:"animatedState_20"
+  Frame:20
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00476561,0,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.0886873,0,0
+
+  [TB_State]
+  Name:"animatedState_21"
+  Frame:21
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=0.0932289,0,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00454166,0,0
+
+  [TB_State]
+  Name:"animatedState_22"
+  Frame:22
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00454166,0,0
+

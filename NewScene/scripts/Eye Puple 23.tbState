@@ -1,0 +1,155 @@
+[TB_StateManager]
+State Count:9
+  [TB_State]
+  Name:"A-002.0;-002.0"
+  Frame:12
+  Node Count:3
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0.0961277,-0.0706923,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=-0.107149,-0.0697261,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.0022574,0,0
+
+  [TB_State]
+  Name:"B+000.0;-002.0"
+  Frame:13
+  Node Count:3
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0,-0.106769,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0,-0.106615,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00300986,0,0
+
+  [TB_State]
+  Name:"C+002.0;-002.0"
+  Frame:14
+  Node Count:3
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=-0.0776879,-0.0914136,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0.0696952,-0.0922896,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00326068,0,0
+
+  [TB_State]
+  Name:"D-002.0;+000.0"
+  Frame:11
+  Node Count:3
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0.114833,0,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=-0.133907,0,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00275904,0,0
+
+  [TB_State]
+  Name:"E+000.0;+000.0"
+  Frame:18
+  Node Count:3
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00426397,0,0
+
+  [TB_State]
+  Name:"F+002.0;+000.0"
+  Frame:15
+  Node Count:3
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=-0.127421,0,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0.11089,0,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.0035115,0,0
+
+  [TB_State]
+  Name:"G-002.0;+002.0"
+  Frame:10
+  Node Count:3
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0.0827075,0.0326183,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=-0.0813947,0.0335458,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00250822,0,0
+
+  [TB_State]
+  Name:"H+000.0;+002.0"
+  Frame:17
+  Node Count:3
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0,0.0686794,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0,0.0681158,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00401315,0,0
+
+  [TB_State]
+  Name:"I+002.0;+002.0"
+  Frame:16
+  Node Count:3
+    [TB_NodeState]
+    Node:"~/Head/Eye_R/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=-0.0741356,0.0426408,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Master_Eye_puple"
+    Attr Count:1
+      AttrName:"POSITION"=0.0676197,0.0380675,0
+    [TB_NodeState]
+    Node:"~/Head/Eye_L/Eye_Light_P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00376233,0,0
+
