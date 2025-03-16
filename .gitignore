@@ -1,9 +1,0 @@
-# Ignore cache and temp files
-*/.autosave/
-*/frames/
-*/full_movie/
-*/job/
-*/palette-library/
-*/scripts/
-*/undo/
-*/backup/
