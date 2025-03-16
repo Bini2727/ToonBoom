@@ -1,3 +1,10 @@
 ToonBoomAnimationInc PaletteList 1
 palette-library/GitHUbTest LINK "C:/Users/LEGION/Documents/GitHub/ToonBoom/GitHUbTest/palette-library/GitHUbTest.plt"
 palette-library/GitHUbTest_pencil_texture LINK "C:/Users/LEGION/Documents/GitHub/ToonBoom/GitHUbTest/palette-library/GitHUbTest_pencil_texture.plt"
+palette-library/character_turn LINK "C:/Users/LEGION/Documents/GitHub/ToonBoom/GitHUbTest/palette-library/character_turn.plt"
+palette-library/character_turn_pencil_texture LINK "C:/Users/LEGION/Documents/GitHub/ToonBoom/GitHUbTest/palette-library/character_turn_pencil_texture.plt"
+palette-library/Spong LINK "C:/Users/LEGION/Documents/GitHub/ToonBoom/GitHUbTest/palette-library/Spong.plt"
+palette-library/Spong_pencil_texture LINK "C:/Users/LEGION/Documents/GitHub/ToonBoom/GitHUbTest/palette-library/Spong_pencil_texture.plt"
+palette-library/character_development LINK "C:/Users/LEGION/Documents/GitHub/ToonBoom/GitHUbTest/palette-library/character_development.plt"
+palette-library/character_development_pencil_texture LINK "C:/Users/LEGION/Documents/GitHub/ToonBoom/GitHUbTest/palette-library/character_development_pencil_texture.plt"
+palette-library/FOOT LINK "C:/Users/LEGION/Documents/GitHub/ToonBoom/GitHUbTest/palette-library/FOOT.plt"
