@@ -36,6 +36,52 @@
     </column>
     <column type="0" name="ATV-0C8E9C711FF021D1372038FE" color="#FFFFFFFF" displayOrder="2" width="100" anonymous="true" id="2"/>
     <column type="0" name="ATV-0C779C881F3C217737203C04" color="#FFFFFFFF" displayOrder="3" width="100" anonymous="true" id="3"/>
+    <column type="2" name="ATV-0CB19C4E3818A1C71CB031B5" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="-0.89583116791643003,8.2916468794460449,0" lockedInTime="1"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-0C8A9C751F19218E372075DA" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <noFrames/>
+      <points version="2">
+       <pt constSeg="false" x="1" yLocal="0" y="0"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-0C329CCD380FA1FA1CB031B7" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="-0.44867568129670887" y="-0.44867568129670887"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C999C663878A1871CB031B8" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="2.3461403395960962" y="2.3461403395960962"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C959C6A38BCA1191CB031B9" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C679C983806A19D1CB031BA" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="1.6114329426579693e-14" y="1.6114329426579693e-14"/>
+     </points>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -45,7 +91,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,2" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="0,0,3" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -64,13 +110,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,5" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,6" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,7" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,8" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -107,7 +153,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing" pos="-65,-50,1" publishUnderTab="Drawing">
+     <module type="READ" name="Drawing" pos="-364,-136,2" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -118,26 +164,26 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="-3.3170380255460961" defaultValue="0"/>
-        <y val="2.7305787518128559" defaultValue="0"/>
+        <x val="15.627557865813493" defaultValue="0"/>
+        <y val="-0.82134568498107274" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </offset>
        <scale>
         <separate val="true"/>
         <inFields val="false"/>
         <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
+        <x val="0.20175247420541137" defaultValue="1"/>
+        <y val="-6.1362899383408518" defaultValue="1"/>
         <z val="1" defaultValue="1"/>
        </scale>
        <rotation>
         <separate val="false"/>
         <anglex val="0" defaultValue="0"/>
         <angley val="0" defaultValue="0"/>
-        <anglez val="-1.0309560702733367" defaultValue="0"/>
+        <anglez val="-72.120641567715495" defaultValue="0"/>
        </rotation>
-       <angle val="-1.0309560702733367" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
+       <angle val="-72.120641567715495" defaultValue="0"/>
+       <skew val="18.378932536017448" defaultValue="0"/>
        <pivot>
         <x val="-17.820348283432207" defaultValue="0"/>
         <y val="1.6835039484482048" defaultValue="0"/>
@@ -219,7 +265,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="ASD_asdf" pos="-53,-90,4" publishUnderTab="ASD_asdf">
+     <module type="READ" name="ASD_asdf" pos="-53,-90,5" publishUnderTab="ASD_asdf">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -331,7 +377,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="ASD_asdf_P" pos="-39,-166,8" publishUnderTab="ASD_asdf_P">
+     <module type="PEG" name="ASD_asdf_P" pos="-39,-166,9" publishUnderTab="ASD_asdf_P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -393,7 +439,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="ASD_asdf_1" pos="151,-75,3" publishUnderTab="ASD_asdf">
+     <module type="READ" name="ASD_asdf_1" pos="151,-75,4" publishUnderTab="ASD_asdf">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -505,7 +551,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="ASD_asdf_P_1" pos="165,-151,6" publishUnderTab="ASD_asdf_P">
+     <module type="PEG" name="ASD_asdf_P_1" pos="165,-151,7" publishUnderTab="ASD_asdf_P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -567,6 +613,69 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
+     <module type="PEG" name="Drawing-P" pos="-364,-236,1" publishUnderTab="Drawing-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <attr3dpath col="ATV-0CB19C4E3818A1C71CB031B5"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0C329CCD380FA1FA1CB031B7"/>
+        <y val="1" defaultValue="1" col="ATV-0C999C663878A1871CB031B8"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0C959C6A38BCA1191CB031B9"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-0C959C6A38BCA1191CB031B9"/>
+       <skew val="0" defaultValue="0" col="ATV-0C679C983806A19D1CB031BA"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
@@ -574,6 +683,7 @@
      <link out="Drawing" in="Composite"/>
      <link out="ASD_asdf_P" in="ASD_asdf" inport="0"/>
      <link out="ASD_asdf_P_1" in="ASD_asdf_1" inport="0"/>
+     <link out="Drawing-P" in="Drawing" inport="0"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
@@ -621,7 +731,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="11010000000000000303B672260BC2C0A6834CD62757F576753CAF779C55260F75A460B11E5BFEF9A91FA4F5BDDE1834B3DFD84A4E7741BA5B89175E6FAA0DCB41252F34BA1638B0A16D8144344FDF93909AF6592F4794F7EE102117E4602131B6D76041D6410E5C586D81BEEC824D4BDF6982E1176F71E4AC8129B87456C7906DE80B47C52809D8EF3EE40AF7DC0AA9442C38147C0CBD07804312DA014164C549D8FAD421743930E9ABF3E7B269408ABF643BF35C9EBD0C20D1FDAD1A43696954BE3E18B6F635F30402D1B80D55B9788AC152159145766558ED6A3AB4A31341627E38BAD358F8AEFD3E527427ED303B1699B032611A9A680087D13A2441EB0F931CADE4B016B0242ADC1CE862840253B737167CC26AA918EA6F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A4000000093E5D2AEFB9BCE0E4A8BD81D53FD25841616449E1BB7EB55E39951D1EE2BBCE97F6D0D081CAC0CA4F0203606523EDE1EBE2C6757B2061530D1B4043652347F3E"/>
+   <value data="110100000000000003037BBFEBC60F0D6B4E811BEA9A38BBB8F162BA5198EBC2B869AD7CD396333464D269387013D5F97E12158783BA8C779644DA93A267C0068CE8E2F977DBF57D6CA04C89F982125E5D573B94E28A593A23DDECDA29ADECFC7B1AAD8C1B8CC39195A04C73214F808612A44F2CDAA2BC29614CE475B99B0A5DA025C68A08E5C41522F329C73A11C76489E1F5D9B1C170CA4D8EDF17CC8CA90884153719ECB9F4FD24663E2A7FA48D4772A9F63E915370C1ED1C3060D78EA4A49973F3D57B3BF83EC9CF1C75C09874B5470C9FD85C88BBA89520A7F7796EDE8CAFB3F5771E95356330F39FB9EA20FDF6DB547DFFACD757A5CD4A1CF7E98C26C25ED160297DDB7DE9E711D125AF49CF9E7AFADBB10FA764D5276F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A40000000308C57808EE8FED3CF1C12E7EA6A9B7CE066449AF1BE9FE871C75D37BB4053B6821CC39DC09BE3874033349519A36F4A9DF86E4D0C0A1DCA57DED9209ECA8A28"/>
   </meta>
  </metas>
 </project>
