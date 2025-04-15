@@ -1,2 +1,2 @@
 <!DOCTYPE Scene>
-<Scene Name="NewScene" EnableVersionDrawing="0"/>
+<Scene EnableVersionDrawing="0" Name="NewScene"/>
